@@ -1,5 +1,2 @@
 # SpringBoot-Code-Snippet
-  
-  
-  
  
